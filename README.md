@@ -6,3 +6,6 @@ this lessson is for best pracitces
 
 
 we added more lines
+
+
+something added
